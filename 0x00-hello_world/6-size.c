@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main - A program that prints the size of various computer types
+ * main - Entry point
+ * Description: " program that prints the size of various computer types"
  * Return 0 (success)
  */
 int main(void)
 {
-	printf("various computer types\n")
 	char a;
 	int b;
 	long int c;
