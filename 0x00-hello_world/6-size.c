@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Description: " program that prints the size of various computer types"
- * Return 0 (success)
- */
+ * main - print out sizes of data types in C
+ * code by shark
+ * Return: 0
+*/
 int main(void)
 {
 	char a;
