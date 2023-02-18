@@ -5,6 +5,7 @@
  */
 int main(void)
 {
+	printf("various computer types\n")
 	char a;
 	int b;
 	long int c;
